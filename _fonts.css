@@ -1,36 +1,36 @@
 @font-face {
     font-family: SlovaR;
-    src: url("fonts/Roboto-Regular.ttf");
+    src: url("font/Roboto-Regular.ttf");
     font-weight: normal;
     font-style: normal;
     }
 @font-face {
     font-family: SlovaR;
-    src: url("fonts/Roboto-Bold.ttf");
+    src: url("font/Roboto-Bold.ttf");
     font-weight: bold;
     font-style: normal
     }
 @font-face {
     font-family: SlovaR;
-    src: url("fonts/InfluBG-Italic.otf"); /* Mandatory for Serbian cyrillic - to cover all other cyrillic alphabets use Roboto-Italic.ttf */ 
+    src: url("font/InfluBG-Italic.otf"); /* Mandatory for Serbian cyrillic - to cover all other cyrillic alphabets use Roboto-Italic.ttf */ 
     font-weight: normal;
     font-style: italic;
     }
 @font-face {
     font-family: SlovaC;
-    src: url("fonts/RobotoCondensed-Regular.ttf");
+    src: url("font/RobotoCondensed-Regular.ttf");
     font-weight: normal;
     font-style: normal;
     }
 @font-face {
     font-family: SlovaC;
-    src: url("fonts/Roboto-Bold.ttf");
+    src: url("font/Roboto-Bold.ttf");
     font-weight: bold;
     font-style: normal;
     }
 @font-face {
     font-family: SlovaC;
-    src: url("fonts/InfluBG-Italic.otf"); /* For other than Serbian cyrillic alphabet use RobotoCondensed-Italic.ttf */ 
+    src: url("font/InfluBG-Italic.otf"); /* For other than Serbian cyrillic alphabet use RobotoCondensed-Italic.ttf */ 
     font-weight: normal;
     font-style: italic;
     }
